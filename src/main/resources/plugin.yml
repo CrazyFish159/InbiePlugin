@@ -1,0 +1,60 @@
+name: inbar-server
+version: 2.0
+main: net.inbar.main.Main
+api-version: 1.16
+softdepend: [HolographicDisplays,PlaceholderAPI]
+
+commands:
+  givewither:
+    description: help me plz
+    permission: inbar.givewither
+  tutorial:
+    description: test12
+  set-tutorial:
+    description: test
+    permission: inbar.set-tutorial
+  setlobby:
+    description: set the lobby plz
+    permission: inbar.setlobby
+  alert:
+    description: hi
+    permission: inbar.alert
+  disable-event:
+    description: close the events
+    permission: inbar.disable-event
+  enable-event:
+    description: open the events
+    permission: inbar.Enable-event
+  give-gun:
+    description: give to you the gun
+    permission: inbar.givegun
+  holo:
+    description: make and hologram!
+  events:
+    description: send you to the events server!
+  set-event:
+    description: set the event loc spawn
+  hunger-lob:
+    description: send u to the hunger game lobby
+  inbar_reload:
+    description: idk lolasdp k02hn 69
+  lobby:
+    description: tp to lob lol
+  elist:
+    description: give u the list on events
+  smpoe:
+    description: set the max players on events server! just give me a number!
+  start:
+    description: give all players on events invis and bots so all players not hide the path!
+  survivalgame:
+    description: tp you to survival game lol
+  test:
+    description: test cmd
+  starttask:
+    description: test
+  stoptask:
+    description: a
+  eventa_start:
+    description: ur mom
+  eventa_stop:
+    description: E
